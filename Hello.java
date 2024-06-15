@@ -6,6 +6,7 @@ class Hello
         //Converting integer into byte
         int num2 = 457;
         byte num3 = (byte)num2;
+        System.out.println("Hello");
         System.out.println(!(true||false));
         System.out.println("Hello world!"+ num3);
      }
